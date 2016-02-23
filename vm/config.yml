@@ -22,7 +22,7 @@ vagrant_public_ip: ""
 vagrant_synced_folders:
   # The first synced folder will be used for the default Drupal installation, if
   # build_makefile: is 'true'.
-  - local_path: ../www
+  - local_path: ../
     destination: /var/www
     type: nfs
     create: true
