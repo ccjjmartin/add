@@ -4,7 +4,7 @@
     "make": "drupal.make.yml",
     "lock": false,
     "settings": "settings",
-    "build": "../www/drupal",
+    "build": "../drupal",
     "root": "root",
     "drush": "drush",
     "themes": {
