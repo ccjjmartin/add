@@ -1,0 +1,31 @@
+core: 7.x
+api: 2
+
+# Common attributes.
+defaults:
+  projects:
+    subdir: "contrib"
+
+projects:
+  drupal:
+    version: ~
+  admin_menu:
+    version: ~
+  ctools:
+    version: ~
+  devel:
+    version: ~
+  diff:
+    version: ~
+  features:
+    version: ~
+  features_extra:
+    version: ~
+  master:
+    version: ~
+  module_filter:
+    version: ~
+  strongarm:
+    version: ~
+  token:
+    version: ~
